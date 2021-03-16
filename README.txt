@@ -1,0 +1,1 @@
+Reset the string 'path' to the directory of the game file in your computer. 
